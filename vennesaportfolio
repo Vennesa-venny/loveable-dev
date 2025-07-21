@@ -1,0 +1,4 @@
+cd your-project   # Go to your project folder if not already there
+git add public/_redirects
+git commit -m "Add Netlify _redirects file for SPA routing"
+git push origin main  # or use 'master' if that's your branch
